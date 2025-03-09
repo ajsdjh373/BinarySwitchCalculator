@@ -1,0 +1,5 @@
+I should implement some kind of searching algorithm so that any combination with the error threshold is refined
+Start with 5% options
+Then look at valid 1% options to either side
+Then look at valid 0.1% options to either side, etc
+1% resistors are doable without a super computer, but 0.1% won't be
